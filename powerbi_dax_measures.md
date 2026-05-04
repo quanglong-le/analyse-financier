@@ -366,13 +366,6 @@ Sur le graphique CA mensuel, activer le drill-down :
 - "T4 Focus" : slicer trimestre = T4
 - "Produits rentables" : filtré sur P01 et P03
 
----
-
-## 6. Publication et partage
-
-1. Enregistrer le fichier : `LuxMode_Retail_Dashboard.pbix`
-2. Pour partager sans licence Power BI Pro : exporter en PDF (`Fichier → Exporter → PDF`)
-3. Pour GitHub : inclure des captures d'écran PNG des 3 pages dans un dossier `/screenshots/`
 
 ---
 
